@@ -1,0 +1,17 @@
+{
+    "name": "cypress-practice",
+    "version": "1.0.0",
+    "description": "This is to practice cypress",
+    "main": "index.js",
+    "scripts": {
+        "cypress:open": "cypress open",
+        "react-devtools": "react-devtools",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Maha",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^5.0.0",
+        "react-devtools": "^4.8.2"
+    }
+}
